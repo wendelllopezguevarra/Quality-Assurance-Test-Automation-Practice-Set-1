@@ -1,11 +1,13 @@
 PART 1
 	-Automate open website, click automobile button and close website
 	-Assertion for validation
-	-Page Object Model Framework
-	
+	-TestNg for testing and annotations 
+	-WebdriverManager for driver config
+	-Pagefactory.initElements for webelements interaction
 
-LEARNINGS	:QUALITY ASSURANCE TEST AUTOMATION, NO ALLURE REPORT, POM FRAMEWORK , ASSERTION
-			:
+LEARNINGS	: QUALITY ASSURANCE TEST AUTOMATION, POM FRAMEWORK , TESTNG, ASSERTION, MAVEN, SELENIUM JAVA, JAVA LANGUAGE, ENVIRONMENTAL VARIABLES, 
+		: 
+		
 How to Install Eclipse?
 How to Install JDK? 
 How to Install Maven?
